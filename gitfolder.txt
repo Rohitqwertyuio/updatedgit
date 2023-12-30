@@ -1,0 +1,11 @@
+//creat a local folder and push to remote repo
+step1:change directory 
+step2-git init
+step3-create a new repository in remote repository
+step4-create a file inside this folder
+step5-add this file(git add file-name)
+step6-commit this file in local repo(git commit -m "msg" )
+step7-Now add your remote repository so that you can push anything to remote
+git remote add origin https://github.com/Rohitqwertyuio/updated.git
+step7-now push our local file to remote repo
+git push origin master
