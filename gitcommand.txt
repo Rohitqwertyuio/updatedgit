@@ -1,0 +1,5 @@
+//To create a new branch
+git branch new_branch_name
+//To switch into branch
+git checkout branch_name
+//
